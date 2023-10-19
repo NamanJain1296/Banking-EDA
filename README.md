@@ -1,4 +1,4 @@
-# Banking-EDA
+# Wine-Quality EDA
 
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) on the Wine Quality dataset sourced from the UCI Machine Learning Repository. The dataset comprises red and white variants of the Portuguese "Vinho Verde" wine and includes various chemical properties as well as quality ratings.
